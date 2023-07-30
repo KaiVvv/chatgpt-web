@@ -490,7 +490,7 @@ onUnmounted(() => {
 							<div></div>
 							<div>建站不易,使用正版3.5 API key,支持的话可以给我买一瓶冰阔落</div>
 							<div>
-								<img src="https://raw.githubusercontent.com/KaiVvv/chatgpt-web/main/src/views/images/5869b14f5e8051f1e6f86c06eed8d7d.jpg" width="200" height="100" alt="kele">
+								<img src="https://gitee.com/KaiVvv/kai-vvv/raw/master/5869b14f5e8051f1e6f86c06eed8d7d.jpg" width="200" height="100" alt="kele">
 							</div>
 						</div>
           </template>
