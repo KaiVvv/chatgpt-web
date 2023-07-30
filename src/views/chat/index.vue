@@ -490,7 +490,7 @@ onUnmounted(() => {
 							<div></div>
 							<div>建站不易,使用正版3.5 API key,支持的话可以给我买一瓶冰阔落</div>
 							<div>
-								<img src="src/views/images/5869b14f5e8051f1e6f86c06eed8d7d.jpg" width="200" height="100" >
+<!--							<img src="src/views/images/5869b14f5e8051f1e6f86c06eed8d7d.jpg" width="200" height="100" >-->
 							</div>
 						</div>
           </template>

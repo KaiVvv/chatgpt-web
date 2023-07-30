@@ -44,11 +44,11 @@ export default defineConfig((env) => {
       },
     },
     build: {
-			rollupOptions: {
-				external: [
-					'src/views/images/5869b14f5e8051f1e6f86c06eed8d7d.jpg',
-					// 添加其他需要外部化的模块
-				]},
+			// rollupOptions: {
+			// 	external: [
+			// 		'src/views/images/5869b14f5e8051f1e6f86c06eed8d7d.jpg',
+			// 		// 添加其他需要外部化的模块
+			// 	]},
       reportCompressedSize: false,
       sourcemap: false,
       commonjsOptions: {
