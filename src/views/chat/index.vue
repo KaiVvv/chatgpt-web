@@ -487,9 +487,9 @@ onUnmounted(() => {
 							<SvgIcon icon="ri:bubble-chart-fill" class="mr-2 text-3xl" />
 							<div>免费仅提供学习和测试，支持上下文，支持开启关闭联网模式，支持保存会话，切勿发布至国内平台</div>
 							<div></div>
-							<div>建站不易,使用正版3.5 API key,支持的话可以给我买一瓶冰阔落</div>
+							<div>使用正版3.5 API key,建站不易,域名服务器昂贵.支持的话可以给我买一瓶冰阔落</div>
 							<div>
-							<img src="http://m.qpic.cn/psc?/V10qLeg92G1M46/ruAMsa53pVQWN7FLK88i5pmY2mDPAA3.gaYcz8Vk1H0Kcdsfwvv*9pE9.iX9t9AcpFr*NxncUTHL7fSqiih6jAQti5wpWHnhzu2hVMmojE4!/b&bo=OASQBgAAAAABB4o!&rf=viewer_4" width="200" height="100" >
+							<img src="https://i.ibb.co/GtDyRY4/5869b14f5e8051f1e6f86c06eed8d7d.jpg" width="200" height="100" >
 							</div>
 						</div>
           </template>
