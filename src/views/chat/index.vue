@@ -483,6 +483,15 @@ onUnmounted(() => {
               <SvgIcon icon="ri:bubble-chart-fill" class="mr-2 text-3xl" />
               <span>Aha~</span>
             </div>
+						<div class="flex items-center flex-col justify-center mt-4 text-center ">
+							<SvgIcon icon="ri:bubble-chart-fill" class="mr-2 text-3xl" />
+							<div>免费仅提供学习和测试，支持上下文，支持开启关闭联网模式，支持保存会话，切勿发布至国内平台</div>
+							<div></div>
+							<div>建站不易，支持的话可以给我买一瓶冰阔落</div>
+							<div>
+								<img src="https://c2.binjie.fun/assets/kele2.jpg" width="200" height="100" alt="kele">
+							</div>
+						</div>
           </template>
           <template v-else>
             <div>
