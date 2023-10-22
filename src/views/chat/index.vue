@@ -487,7 +487,7 @@ onUnmounted(() => {
 							<SvgIcon icon="ri:bubble-chart-fill" class="mr-2 text-3xl" />
 							<div><b>免费仅提供学习和测试，支持上下文，支持开启关闭联网模式，支持保存会话.</b></div>
 							<div><b>使用正版3.5 API key,建站不易,域名服务器昂贵.支持的话可以给我买一瓶冰阔落</b></div>
-							<div><b>ChatGPT4接口(不稳定)<a target="_blank" href="https://gpt.kaivvv.link/" style="color: #2979ff;">https://gpt.kaivvv.link/</a></b></div>
+<!--							<div><b>ChatGPT4接口(不稳定)<a target="_blank" href="https://gpt.kaivvv.link/" style="color: #2979ff;">https://gpt.kaivvv.link/</a></b></div>-->
 							<div>
 							<img src="https://i.ibb.co/GtDyRY4/5869b14f5e8051f1e6f86c06eed8d7d.jpg" width="200" height="100" >
 							</div>
